@@ -1,6 +1,6 @@
 # MSN App in Cordova
 
-An application built using Apache Cordova. Msn.com is imply launched in a web view.
+An application built using Apache Cordova. Msn.com is simply launched in a web view.
 
 ## Important!
 To learn more about Tools for Apache Cordova, visit this [link](https://taco.visualstudio.com/).
@@ -15,8 +15,6 @@ To learn more about Tools for Apache Cordova, visit this [link](https://taco.vis
 2. Cordova - npm install cordova
 
 ## Getting Started
-
-With VS Code:
 * Clone this repository.
 * Run `npm install` from the project root.
 * Add android / iOS / windows platform to your project by running `cordova platform add <platform name>` in a terminal from your project root.
